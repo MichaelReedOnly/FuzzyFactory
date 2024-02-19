@@ -1,0 +1,7 @@
+{
+	"name": "AzureDataLakeStorage464",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/126146de-99cb-4638-b94d-c9f2f3ba7e1a/resourceGroups/azurestraccnt/providers/Microsoft.Storage/storageAccounts/fuzzypot",
+		"groupId": "dfs"
+	}
+}
