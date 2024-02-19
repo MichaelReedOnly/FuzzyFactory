@@ -1,0 +1,9 @@
+{
+	"name": "df-fuzzy-01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf56fb39-153e-4bff-8075-919fffd12be7",
+		"tenantId": "d35ac252-de91-4f74-b4b8-478b6e59f543"
+	}
+}
